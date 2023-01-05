@@ -9,7 +9,8 @@ You can trigger notification either on Client side or Server side by using these
 # Server
     TriggerClientEvent('dazeNotify:Alert', source, "Title", "Message", Time, 'type')
 
-Also this script is fully replacing okokNotify as it's based on same style of functionality, if you want to replace it just rename this script to okokNotify and rename colors like this:
+Default colors are:
+
  - Red - warning or error
  - Green - success
  - Blue - info
