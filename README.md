@@ -1,7 +1,5 @@
-Hello, thank you for buying our script.
-
 1. How to install
-This script is Dron'n Go and standalone.
+This script is Drop'n Go and standalone.
 
 2. Usage
 You can trigger notification either on Client side or Server side by using these examples:
